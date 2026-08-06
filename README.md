@@ -53,5 +53,5 @@ jupyter notebook Customer_Segmentation.ipynb
 
 ## Notes
 
-- This is a learning project exploring different clustering techniques on the same dataset, not a production pipeline.
-- Cluster labels (0, 1, 2...) aren't consistent across algorithms — cluster 0 in K-Means isn't the same segment as cluster 0 in DBSCAN.
+- This is a student project exploring different clustering techniques on the same dataset, not a production pipeline, yet.
+- Note that cluster labels (0, 1, 2...) aren't consistent across algorithms — cluster 0 in K-Means isn't the same segment as cluster 0 in DBSCAN.
